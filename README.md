@@ -7,4 +7,4 @@ Hello! I want to introduce you to my first Python project! It is a calculator wi
 4. It has an interesting graphical interface. 
 5. Knows how to work with negative numbers.
 ## Screenshot
-
+![Calculator screenshot](images/screeshot.calculator.png)
