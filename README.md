@@ -9,4 +9,4 @@ Hello! I want to introduce you to my first Python project! It is a calculator wi
 ## Screenshot
 ![Calculator screenshot](images/screeshot.calculator.png)
 ## Calculator code
-The code from my calculator —>[calculator.py](calculator.py)
+The code from my calculator —>[images/calculator.py](images/calculator.py)
